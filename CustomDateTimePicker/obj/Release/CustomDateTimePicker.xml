@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomDateTimePicker
+</name>
+</assembly>
+<members>
+<member name="M:CustomDateTimePicker.CustomDateTimePicker.Me_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ ------------------------------------------------<summary>
+ KeyPress
+ </summary>-----------------------------------------------
+ <remarks></remarks>
+</member><member name="M:CustomDateTimePicker.CustomDateTimePicker.Me_PreviewKeyDown(System.Object,System.Windows.Forms.PreviewKeyDownEventArgs)">
+ ------------------------------------------------<summary>
+ PreviewKeyDown
+ </summary>-----------------------------------------------
+ <remarks></remarks>
+</member><member name="T:CustomDateTimePicker.CustomDateTimePicker">
+ ------------------------<summary>
+ CustomDateTimePicker
+ </summary>------------------------
+ <remarks></remarks>
+</member>
+</members>
+</doc>

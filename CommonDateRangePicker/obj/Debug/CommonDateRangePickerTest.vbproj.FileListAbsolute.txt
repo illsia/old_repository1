@@ -1,0 +1,12 @@
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\bin\Debug\CommonDateRangePicker.exe
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\bin\Debug\CommonDateRangePicker.pdb
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\bin\Debug\CommonDateRangePicker.xml
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.CustomDateRangePicker.resources
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.Form1.resources
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.Resources.resources
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePickerTest.vbproj.GenerateResource.Cache
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.exe
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.xml
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.pdb
+C:\Documents and Settings\noda42222\My Documents\Visual Studio 2008\Projects\CustomColtrolDesign\CommonDateRangePicker\obj\Debug\CommonDateRangePicker.Form2.resources
